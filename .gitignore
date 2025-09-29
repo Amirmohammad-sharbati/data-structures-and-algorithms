@@ -8,8 +8,3 @@
 .vscode/
 cmake-build-debug/
 
-# Ignore Word and PDF files
-*.doc
-*.docx
-*.pdf
-
