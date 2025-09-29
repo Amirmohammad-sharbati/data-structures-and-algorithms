@@ -1,5 +1,5 @@
 # Data Structures and Algorithms – SUT (Semester 3)
-This repository contains my solutions and implementations for the **Data Structures and Algorithms** course at Sharif University of Technology (Semester 3).
+This repository contains my solutions and implementations for the **Data Structures and Algorithms** course at Sharif University of Technology.
 
 ## 📚 Course Overview
 The course covers:
