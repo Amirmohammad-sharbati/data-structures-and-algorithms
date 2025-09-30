@@ -1,6 +1,5 @@
-# Data Structures and Algorithms (DSA) – SUT (Fall 2024)
+# Data Structures and Algorithms (DSA) - SUT (Fall 2024)
 This repository showcases my solutions and implementations of classic **Data Structures and Algorithms**, developed as part of my coursework at **Sharif University of Technology (SUT)** in Semester 3 (Fall 2024).  
-They are meant for learning, not for direct copying in other courses.
 
 ![Language](https://img.shields.io/badge/language-C++%20%7C%20Python%20%7C%20Java-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -17,7 +16,7 @@ The course covers:
 ## 📂 Repository Structure
 - data-structures-and-algorithms/  
     - T1_basic_concepts_algorithms/  
-        - 1_basic_concepts/  
+        - 1_basic_concepts/       
         - 2_randomized_algorithm/  
     - T2_data_structures/  
         - 1_heap/  
@@ -29,7 +28,7 @@ The course covers:
     - LICENSE
     - README.md
 
-  Each folder contains code for a specific assignment.
+  Each folder contains code for a specific assignment and also description of it.
 
 ## 🛠️ Programming Languages Used
 - **C++** 
@@ -46,7 +45,7 @@ cd  data-structures-and-algorithms
 Navigate into the folder of the assignment you want to test, then run the code depending on the language:
 
 ### 🐍 Python
-``` bash
+```bash
 python3 main.py
 ```
 
@@ -68,4 +67,3 @@ javac Main.java
 java Main
 ```
 Replace main.py, main.cpp, or Main.java with the actual file names.
-
