@@ -1,17 +1,17 @@
-# Data Structures and Algorithms (DSA) – SUT
-This repository showcases my solutions and implementations of classic **Data Structures and Algorithms**, developed as part of my coursework at **Sharif University of Technology (SUT)** in Semester 3.  
+# Data Structures and Algorithms (DSA) – SUT (Fall 2024)
+This repository showcases my solutions and implementations of classic **Data Structures and Algorithms**, developed as part of my coursework at **Sharif University of Technology (SUT)** in Semester 3 (Fall 2024).  
 They are meant for learning, not for direct copying in other courses.
 
 ![Language](https://img.shields.io/badge/language-C++%20%7C%20Python%20%7C%20Java-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Repo Size](https://img.shields.io/github/repo-size/yourusername/yourrepo)
-
+![Repo Size](https://img.shields.io/github/repo-size/Amirmohammad-sharbati/data-structures-and-algorithms?color=purple)
 
 ## 📚 Course Overview
 The course covers:
-- **Data Structures:** Stack, Queue, Linked List, Heap, Tree, Graph
+- **Data Structures:** Linked List, Stack, Queue, Heap, Tree, Graph
 - **Algorithms:** Divide and Conquer, Randomized Algorithms, BFS, DFS 
-- **Advanced Topics:** Disjoint Sets, Red-Black Trees, Shortest Paths  
+- **Advanced Topics:** Disjoint Sets, Red-Black Trees, Shortest Paths
+
 *Note: I don't implement programs for all these topics, I only do for some of them (only our assignments).* 
 
 ## 📂 Repository Structure
@@ -29,7 +29,7 @@ The course covers:
     - LICENSE
     - README.md
 
-Each folder contains code for a specific assignment.
+  Each folder contains code for a specific assignment.
 
 ## 🛠️ Programming Languages Used
 - **C++** 
@@ -45,16 +45,24 @@ cd  data-structures-and-algorithms
 ```
 Navigate into the folder of the assignment you want to test, then run the code depending on the language:
 
-🐍 Python
+### 🐍 Python
 ``` bash
 python3 main.py
 ```
-💻 C++
+
+### 💻 C++
+**Linux / macOS:**
 ```bash
 g++ main.cpp -o program
 ./program
 ```
-☕ Java
+**Windows (CMD / PowerShell):**
+```bash
+g++ main.cpp -o program.exe
+program.exe
+```
+
+### ☕ Java
 ```bash
 javac Main.java
 java Main
